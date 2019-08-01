@@ -1,3 +1,3 @@
-#Blackjack
+# Blackjack
 
-Welcome to Blackjack!
+*Welcome to Blackjack!*
